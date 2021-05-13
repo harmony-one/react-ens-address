@@ -50,7 +50,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "@emotion/styled": "^10.0.14",
-    "@ensdomains/ui": "^3.0.40",
+    "@ensdomains/ui": "git+ssh://git@github.com:harmony-one/ui.git#dcaa85c04bdee2fd74d4747bce0992018f054f54",
     "ethers": "^4.0.32",
     "lodash": "^4.17.13"
   },
