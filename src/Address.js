@@ -227,7 +227,7 @@ Address.propTypes = {
 
 Address.defaultProps = {
   presetValue: '',
-  placeholder: 'Enter Ethereum name or address',
+  placeholder: 'Enter ONE name or address',
   showBlockies: true,
   DefaultIcon: null,
   className: '',
